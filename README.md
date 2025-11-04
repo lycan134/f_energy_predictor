@@ -29,7 +29,4 @@ Built with **Streamlit**, this tool allows users to upload composition and space
 | **Feature Engineering** | pymatgen, matminer |
 | **Deployment** | Streamlit Community Cloud |
 
----
-
-## 📁 Project Structure
 
